@@ -1,0 +1,20 @@
+
+
+#titulo-h1 {
+    text-align: center;
+}
+#titulo-h2{
+    text-align: center;
+}
+.white {
+    color: white;
+}
+#body {
+    background-color: black;
+    border: 5px solid white;
+    padding: 20px;
+    font-family: "Brush Script MT", Verdana, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+ 
+    
